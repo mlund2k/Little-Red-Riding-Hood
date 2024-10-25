@@ -1,6 +1,9 @@
 # Little-Red-Riding-Hood
 
 
+[Part 2 of this project](https://github.com/mlund2k/Little-Red-Riding-Hood-Part-2)
+
+
 The following program implements classes and objects of type Person, Thing, Location, Time, and 
 Record to describe the following chronological events laid throughout the Little Red Riding Hood 
 story:
